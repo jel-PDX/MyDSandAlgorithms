@@ -2,7 +2,7 @@
 
 This project contains implementations of six data structures and six sorting algorithms, located in the `/DS` and `/Algorithms` directories respectively, each one fully unit tested using the Catch2 framework.
 
-I may continue working on this project, as there are plenty of additional things I could do to improve the project, such as adding more algorithms/DS, benchmark testing the computational efficiency of algorithms, or adding error handling, which would allow me to implement proper bounds checking and flesh out the unit tests even more.
+I may continue working on this project, as there are plenty of additional things I could do for improvement, such as adding more algorithms/DS, benchmark testing the computational efficiency of algorithms, or adding error handling, which would allow me to implement proper bounds checking and flesh out the unit tests even more.
 
 **Data structure implementations:**
 - Array (static and dynamic)

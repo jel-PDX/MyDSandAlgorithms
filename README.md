@@ -31,4 +31,20 @@ Within the folder of a given implementation lies the `/src` directory containing
 
 To build an implementation, enter its `/build` directory and run `cmake ..`. Once CMake finishes generating the build files, run `make`. From there you can run the binary `./tests` to execute the unit tests. Run `./tests -s` for verbose output if you want to see the invidual unit tests passing.
 
+Ex:
+```bash
+
+# Enter build directory of BST implementation
+cd DS/BST/build
+
+# Generate build files
+cmake ..
+
+# Generate executable
+make
+
+# Run Unit Tests
+./tests
+```
+
 Feel free to view the `test.cpp` and other source files for an implementation to better understand their interface, functionality, and implementation!
